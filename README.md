@@ -72,6 +72,5 @@ If you find this repository useful for your project, please consider citing us!
   journal={2025 IEEE International Conference on Robotics and Automation (ICRA)},
   year={2025},
   pages={5660-5668},
-  url={https://api.semanticscholar.org/CorpusID:276902584}
 }
 ```
