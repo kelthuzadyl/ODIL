@@ -1,6 +1,8 @@
 # ODIL-VS
 
-This repository provides a lightweight implementation of the **wrist-camera-based visual servoing (VS) controllers** from [ODIL](https://arxiv.org/abs/2503.06831) with minimal dependencies. <br> The code has been tested on ROS 2 using a ViperX 300s arm (ALOHA) equipped with an Intel RealSense D405 wrist camera and a joint position controller.
+This repository provides a lightweight implementation of the **wrist-camera-based visual servoing (VS) controllers** from [ODIL](https://arxiv.org/abs/2503.06831) with minimal dependencies. 
+
+The code has been tested on ROS 2 using a ViperX 300s arm (ALOHA) equipped with an Intel RealSense D405 wrist camera and a joint position controller.
 
 ![compare pan](media/compare_pan.gif)
 
